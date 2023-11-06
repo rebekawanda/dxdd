@@ -1,0 +1,23 @@
+#div1, #div2, #div3, #div4, #div5, #div6, #div7, #div8, #div9, #div10 {
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color:deepskyblue;
+}
+h1 {
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+body{background-image: url('fundo.png');}
+
+.css {
+margin-top: 170px;
+}
